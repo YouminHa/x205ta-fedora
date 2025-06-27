@@ -1,0 +1,4 @@
+# keyboard setup
+xset r rate 300 40
+setxkbmap -option ctrl:nocaps
+
